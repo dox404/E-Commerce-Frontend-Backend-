@@ -1,0 +1,6 @@
+[submodule "Backend"]
+	path = Backend
+	url = https://github.com/dox404/E-commerce_Backend.git
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/dox404/E-commerce_Frontend.git
